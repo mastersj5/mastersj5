@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I am a recent Computer Science graduate seeking an entry-level software development role with a focus on web applications. 
+
+Between 2020 and 2024, I completed my B.S. in Computer Science with a Concentration in AI/Data Science.
+
+- 🔭 I’m currently working on new ways to implement LLMs and ML into my projects.
+- 🌱 I’m currently learning HTML for building my own Website on GitHub Pages.
+- 🤔 I’m looking for help with marketing myself as I enter into the tech industry!
+- 📫 How to reach me: Send a message to me on LinkedIn (linked on my profile)!
+- 💬 Ask me about my Financial Exchange Capstone Project: https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/
+- 😄 Pronouns: He/Him
+
+[![mastersj5's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastersj5)](https://github.com/mastersj5/github-readme-stats)
+
 <!--
 **mastersj5/mastersj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
