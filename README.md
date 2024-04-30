@@ -11,10 +11,13 @@ Between 2020 and 2024, I completed my B.S. in Computer Science with a Concentrat
 - 💬 Ask me about my Financial Exchange Capstone Project: https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/
 - 😄 Pronouns: He/Him
 
-[![mastersj5's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastersj5)](https://github.com/mastersj5/github-readme-stats)
+
 
 <!--
 **mastersj5/mastersj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+GitHub Stats:
+[![mastersj5's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastersj5)](https://github.com/mastersj5/github-readme-stats)
 
 Here are some ideas to get you started:
 
