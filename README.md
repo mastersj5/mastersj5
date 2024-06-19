@@ -7,8 +7,8 @@ Between 2020 and 2024, I completed my B.S. in Computer Science with a Concentrat
 - 🔭 I’m currently working on new ways to implement LLMs and ML into my projects.
 - 🌱 I’m currently learning React (MERN stack) for building websites for various Web Applications.
 - 🤔 I’m looking for help with marketing myself as I enter into the tech industry!
-- 📫 How to reach me: Send a message to me on ![LinkedIn](https://www.linkedin.com/in/joshua-masters-75609b238/)!
-- 💬 Ask me about my ![Financial Exchange Capstone Project](https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/).
+- 📫 How to reach me: Send a message to me on [LinkedIn](https://www.linkedin.com/in/joshua-masters-75609b238/)!
+- 💬 Ask me about my [Financial Exchange Capstone Project](https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/).
 - 😄 Pronouns: He/Him
 
 
