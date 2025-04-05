@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-I am a recent Computer Science graduate seeking an entry-level software development role with a focus on web applications. 
+I'm a Software Engineer at Altamira Technologies Corporation, passionate about building robust and user-friendly applications. I graduated in 2024 with a B.S. in Computer Science, specializing in AI/Data Science.
 
-Between 2020 and 2024, I completed my B.S. in Computer Science with a Concentration in AI/Data Science.
-
-- 🔭 I’m currently working with Figma and DigitalOcean for local businesses to create web solutions and improve their online presence.
-- 🌱 I’m currently learning React (MERN stack) for building websites for various Web Applications.
-- 🤔 I’m looking for help with marketing myself as I enter into the tech industry!
+- 🔭 Currently contributing to software solutions as a Software Engineer at Altamira Technologies Corporation.
+- 🌱 Continuously learning and exploring technologies, with a current focus on React and the MERN stack for web applications.
+- 🤔 Interested in connecting with other developers and exploring new technologies in web development and AI/Data Science.
 - 📫 How to reach me: Send a message to me on [LinkedIn](https://www.linkedin.com/in/joshua-masters-75609b238/)!
-- 💬 Ask me about my [Financial Exchange Capstone Project](https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/).
+- 💬 Ask me about my [Financial Exchange Capstone Project](https://ud-cps491-24s-team.github.io/Team02-FinancialExchange-Public/) or my journey into tech!
 - 😄 Pronouns: He/Him
-
-
 
 <!--
 **mastersj5/mastersj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
